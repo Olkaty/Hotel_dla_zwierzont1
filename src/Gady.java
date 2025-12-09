@@ -8,6 +8,6 @@ public class Gady extends Zwierzeta
 
     // Trzeba wprowadzić wyjątki gadów wodnych
 
-
+//afdtfta
 
 }
